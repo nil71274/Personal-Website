@@ -1,0 +1,126 @@
+body{
+    background-color: #f3fffb;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-size: 10rem;
+    font-family: 'Qwigley', cursive;
+}
+h2{
+    color:#40e3bf;
+    font-weight: normal;
+    font-size: 4rem;
+    font-family: 'Poiret One', cursive;
+}
+h3{
+    font-size: 2rem;
+    color: #45b29a;
+    text-align: center;
+    font-family: 'Gruppo', cursive; 
+}
+p{
+    color: #6a6a6a;
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+
+}
+.top-container{
+    color: #45b29a;
+    font-size: larger;
+    font-family: 'brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif';
+    background-color:#CBEDD5;
+    padding-top: 170px;
+    
+}
+.top-cloud{
+    position: absolute;
+    top: 220px;
+    left: 250px;
+}
+.mid-mountain{
+    position: relative;    
+}
+.bottom-cloud{
+    position: absolute;
+    right: 250px;
+    top: 80px;
+
+}
+hr{
+    border-top: 0;
+    border-style: dotted;
+    border-width: 10px 0px 0px 0px;
+    border-color: grey;
+    margin: 100px auto 100px auto;
+    width: 7%;
+}
+
+
+
+.middle-container{
+    margin-top: 100px;
+}
+.skill-row{
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.one{
+    float: left;
+    width: 25%;
+    margin-right: 10px;
+    
+}
+.two{
+    float: right;
+    width: 30%;
+    margin-left: 10px;
+}
+
+
+
+
+
+.bottom-container{
+    padding: 10px 10px 5px 10px;
+    background-color: #5df0d0;
+    margin-bottom: 30px;
+}
+.contact-me{
+    margin: 100px auto 100px auto;
+}
+
+
+.btn{
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:rgba(2, 197, 158, 1);
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+    text-shadow: 1px 1px 0px rgba(19, 165, 165, 1);
+    background:linear-gradient(#4ddebe, rgba(7, 197, 180, 1));
+  }
+  
+  .btn:hover {
+    background: linear-gradient(rgba(7, 197, 180, 1), rgba(92, 238, 235, 1));
+  }
+                
+                
+.footer-link{
+    margin: 0px 30px 0px 30px;
+    text-decoration: none;
+    color: #0c9577;
+    font-size: medium;
+}
+
+
